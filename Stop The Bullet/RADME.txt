@@ -1,2 +1,0 @@
-Personal project where when the user press space bullets will come from one side 
-to the other. Ideas for 2d game dev.

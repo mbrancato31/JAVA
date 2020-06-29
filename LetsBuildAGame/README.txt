@@ -1,1 +1,0 @@
-Project made followiing a tutorial to experiment with 2d game dev in java.

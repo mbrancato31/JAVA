@@ -58,7 +58,7 @@ public class Hw01 {
                 break;
 
             case 's':
-                // delete
+                // search
                 key = value.get(j);
                 searchNode(key);
                 break;
