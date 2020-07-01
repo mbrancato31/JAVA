@@ -1,4 +1,4 @@
-Basic 2d game made in java with the purpose of learning Game Development.
+Basic 2D game made in java with the purpose of learning Game Development.
 There will be the source code and a executable file for windows.
 
 ### How to Run
